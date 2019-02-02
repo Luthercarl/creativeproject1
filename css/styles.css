@@ -15,7 +15,8 @@
 	  display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  max-height:200px;
+  max-width:100px;
 }
 hr{
 	width: 50%;
